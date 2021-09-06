@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.exe.config
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\DynamicCodeDemo.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\DynamicCodeDemo.pdb

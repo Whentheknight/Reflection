@@ -1,0 +1,16 @@
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.AssemblyInfo.cs
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.deps.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.runtimeconfig.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.runtimeconfig.dev.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\ref\AssemblyAttrDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\net5.0\AssemblyAttrDemo.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\ref\AssemblyAttrDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\net5.0\AssemblyAttrDemo.genruntimeconfig.cache

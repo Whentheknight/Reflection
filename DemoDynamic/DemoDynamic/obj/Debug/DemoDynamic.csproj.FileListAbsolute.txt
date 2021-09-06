@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.exe.config
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\bin\Debug\DemoDynamic.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\DemoDynamic\DemoDynamic\obj\Debug\DemoDynamic.pdb

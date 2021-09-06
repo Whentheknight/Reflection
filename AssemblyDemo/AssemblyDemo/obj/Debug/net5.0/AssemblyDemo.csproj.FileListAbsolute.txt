@@ -1,0 +1,16 @@
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.exe
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.deps.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.runtimeconfig.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.runtimeconfig.dev.json
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\ref\AssemblyDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\bin\Debug\net5.0\AssemblyDemo.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.AssemblyInfo.cs
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\ref\AssemblyDemo.dll
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.pdb
+C:\Users\Felhasználó\OneDrive\Documents\.NET modul\SI_assignments\4thSIWeek\AssemblyDemo\AssemblyDemo\obj\Debug\net5.0\AssemblyDemo.genruntimeconfig.cache
